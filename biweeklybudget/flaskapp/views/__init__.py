@@ -46,6 +46,7 @@ from .scheduled import *
 from .transactions import *
 from .help import *
 from .lawn import *
+from .pool import *
 from .fuel import *
 from .projects import *
 from .utils import *
