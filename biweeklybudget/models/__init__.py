@@ -43,6 +43,7 @@ from biweeklybudget.models.fuel import FuelFill, Vehicle
 from biweeklybudget.models.ofx_statement import OFXStatement
 from biweeklybudget.models.ofx_transaction import OFXTransaction
 from biweeklybudget.models.projects import Project, BoMItem
+from biweeklybudget.models.pool import Pool, PoolType
 from biweeklybudget.models.reconcile_rule import ReconcileRule
 from biweeklybudget.models.scheduled_transaction import ScheduledTransaction
 from biweeklybudget.models.transaction import Transaction
